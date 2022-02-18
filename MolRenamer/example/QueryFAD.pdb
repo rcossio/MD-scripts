@@ -1,0 +1,107 @@
+HETATM    1  P   FAD A 501      67.343 -17.164 -26.733  1.00 18.29           P  
+HETATM    2  PA  FAD A 501      70.131 -17.310 -27.452  1.00 23.75           P  
+HETATM    3  O1P FAD A 501      66.040 -17.978 -27.076  1.00 22.13           O1-
+HETATM    4  O2P FAD A 501      67.878 -17.006 -25.253  1.00 23.53           O  
+HETATM    5  O3P FAD A 501      68.694 -17.676 -27.470  1.00 19.31           O  
+HETATM    6  C5' FAD A 501      67.045 -15.270 -28.456  1.00 22.77           C  
+HETATM    7  O5' FAD A 501      67.271 -15.614 -27.108  1.00 23.68           O  
+HETATM    8  C4' FAD A 501      67.451 -13.820 -28.681  1.00 19.02           C  
+HETATM    9  O4' FAD A 501      68.824 -13.681 -28.581  1.00 20.33           O  
+HETATM   10  C3' FAD A 501      66.964 -13.436 -30.056  1.00 16.96           C  
+HETATM   11  O3' FAD A 501      65.606 -13.204 -29.976  1.00 17.46           O  
+HETATM   12  C2' FAD A 501      67.688 -12.246 -30.711  1.00 13.24           C  
+HETATM   13  O2' FAD A 501      69.027 -12.516 -30.899  1.00 13.85           O  
+HETATM   14  C1' FAD A 501      67.009 -12.018 -32.034  1.00 20.76           C  
+HETATM   15  C1B FAD A 501      73.472 -20.980 -24.436  1.00 16.68           C  
+HETATM   16  N1  FAD A 501      65.853  -9.510 -31.640  1.00 22.63           N  
+HETATM   17  N1A FAD A 501      74.963 -25.645 -22.547  1.00 23.23           N  
+HETATM   18  O1A FAD A 501      70.950 -17.924 -28.615  1.00 17.74           O1-
+HETATM   19  C2  FAD A 501      65.263  -8.233 -31.370  1.00 18.88           C  
+HETATM   20  C2A FAD A 501      74.929 -24.466 -21.863  1.00 27.49           C  
+HETATM   21  C2B FAD A 501      74.157 -20.096 -25.404  1.00 17.37           C  
+HETATM   22  O2  FAD A 501      64.317  -8.134 -30.409  1.00 27.04           O  
+HETATM   23  O2A FAD A 501      70.038 -15.871 -27.365  1.00 21.98           O  
+HETATM   24  O2B FAD A 501      75.478 -19.931 -25.074  1.00 22.68           O  
+HETATM   25  C3B FAD A 501      73.344 -18.866 -25.302  1.00 22.68           C  
+HETATM   26  N3  FAD A 501      65.629  -7.104 -32.074  1.00 24.72           N  
+HETATM   27  N3A FAD A 501      74.517 -23.323 -22.478  1.00 31.82           N  
+HETATM   28  O3B FAD A 501      73.957 -18.015 -24.408  1.00 21.40           O  
+HETATM   29  C4  FAD A 501      66.570  -7.180 -33.068  1.00 23.02           C  
+HETATM   30  C4A FAD A 501      74.145 -23.342 -23.776  1.00 31.54           C  
+HETATM   31  C4B FAD A 501      71.994 -19.316 -24.837  1.00 24.92           C  
+HETATM   32  C4X FAD A 501      67.239  -8.474 -33.366  1.00 26.45           C  
+HETATM   33  O4  FAD A 501      66.932  -6.058 -33.748  1.00 25.40           O  
+HETATM   34  O4B FAD A 501      72.115 -20.683 -24.563  1.00 20.82           O  
+HETATM   35  C5A FAD A 501      74.173 -24.568 -24.494  1.00 31.45           C  
+HETATM   36  C5B FAD A 501      70.890 -19.056 -25.862  1.00 22.27           C  
+HETATM   37  C5X FAD A 501      68.852  -9.796 -34.547  1.00 21.83           C  
+HETATM   38  N5  FAD A 501      68.237  -8.577 -34.323  1.00 23.25           N  
+HETATM   39  O5B FAD A 501      70.537 -17.695 -26.069  1.00 29.62           O  
+HETATM   40  C6  FAD A 501      69.852  -9.862 -35.516  1.00 19.95           C  
+HETATM   41  C6A FAD A 501      74.587 -25.712 -23.837  1.00 24.55           C  
+HETATM   42  N6A FAD A 501      74.614 -26.959 -24.548  1.00 22.29           N  
+HETATM   43  C7  FAD A 501      70.496 -11.067 -35.770  1.00 20.59           C  
+HETATM   44  C7M FAD A 501      71.567 -11.076 -36.832  1.00 15.98           C  
+HETATM   45  N7A FAD A 501      73.745 -24.313 -25.779  1.00 31.89           N  
+HETATM   46  C8  FAD A 501      70.156 -12.208 -35.049  1.00 16.93           C  
+HETATM   47  C8A FAD A 501      73.450 -23.018 -25.893  1.00 29.99           C  
+HETATM   48  C8M FAD A 501      70.834 -13.516 -35.308  1.00 15.58           C  
+HETATM   49  C9  FAD A 501      69.151 -12.146 -34.075  1.00 19.85           C  
+HETATM   50  C9A FAD A 501      68.501 -10.941 -33.817  1.00 21.30           C  
+HETATM   51  N9A FAD A 501      73.676 -22.376 -24.697  1.00 25.04           N  
+HETATM   52  C10 FAD A 501      66.846  -9.622 -32.588  1.00 24.36           C  
+HETATM   53  N10 FAD A 501      67.480 -10.852 -32.809  1.00 26.42           N  
+CONECT    1    3    4    5    7
+CONECT    2    5   18   23   39
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1    2
+CONECT    6    7    8
+CONECT    7    6    1
+CONECT    8    6    9   10
+CONECT    9    8
+CONECT   10    8   11   12
+CONECT   11   10
+CONECT   12   10   13   14
+CONECT   13   12
+CONECT   14   12   53
+CONECT   15   51   21   34
+CONECT   16   19   52
+CONECT   17   20   41
+CONECT   18    2
+CONECT   19   16   22   26
+CONECT   20   17   27
+CONECT   21   15   24   25
+CONECT   22   19
+CONECT   23    2
+CONECT   24   21
+CONECT   25   21   28   31
+CONECT   26   19   29
+CONECT   27   20   30
+CONECT   28   25
+CONECT   29   26   32   33
+CONECT   30   27   35   51
+CONECT   31   25   34   36
+CONECT   32   29   38   52
+CONECT   33   29
+CONECT   34   31   15
+CONECT   35   30   41   45
+CONECT   36   31   39
+CONECT   37   40   50   38
+CONECT   38   32   37
+CONECT   39    2   36
+CONECT   40   37   43
+CONECT   41   35   17   42
+CONECT   42   41
+CONECT   43   40   44   46
+CONECT   44   43
+CONECT   45   35   47
+CONECT   46   43   48   49
+CONECT   47   45   51
+CONECT   48   46
+CONECT   49   46   50
+CONECT   50   37   49   53
+CONECT   51   15   30   47
+CONECT   52   16   32   53
+CONECT   53   50   14   52
+END

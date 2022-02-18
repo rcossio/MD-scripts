@@ -1,0 +1,388 @@
+
+[GDU ]
+
+ [ atoms ]
+      PA      XXX   0.0    1
+      PB      XXX   0.0    2
+      C1D     XXX   0.0    3
+      C1X     XXX   0.0    4
+      N1      XXX   0.0    5
+      O1A     XXX   0.0    6
+      O1B     XXX   0.0    7
+      C2      XXX   0.0    8
+      C2D     XXX   0.0    9
+      C2X     XXX   0.0    10
+      O2      XXX   0.0    11
+      O2A     XXX   0.0    12
+      O2B     XXX   0.0    13
+      O2D     XXX   0.0    14
+      O2X     XXX   0.0    15
+      C3D     XXX   0.0    16
+      C3X     XXX   0.0    17
+      N3      XXX   0.0    18
+      O3A     XXX   0.0    19
+      O3B     XXX   0.0    20
+      O3D     XXX   0.0    21
+      O3X     XXX   0.0    22
+      C4      XXX   0.0    23
+      C4D     XXX   0.0    24
+      C4X     XXX   0.0    25
+      O4      XXX   0.0    26
+      O4D     XXX   0.0    27
+      O4X     XXX   0.0    28
+      C5      XXX   0.0    29
+      C5D     XXX   0.0    30
+      C5X     XXX   0.0    31
+      O5D     XXX   0.0    32
+      O5X     XXX   0.0    33
+      C6      XXX   0.0    34
+      C6X     XXX   0.0    35
+      O6X     XXX   0.0    36
+      H75     XXX   0.0    37
+      H79     XXX   0.0    38
+      H81     XXX   0.0    39
+      H83     XXX   0.0    40
+      H85     XXX   0.0    41
+      H87     XXX   0.0    42
+      H89     XXX   0.0    43
+      H91     XXX   0.0    44
+      H93     XXX   0.0    45
+      H95     XXX   0.0    46
+      H97     XXX   0.0    47
+      H99     XXX   0.0    48
+      H101    XXX   0.0    49
+      H103    XXX   0.0    50
+      H105    XXX   0.0    51
+      H107    XXX   0.0    52
+      H109    XXX   0.0    53
+      H111    XXX   0.0    54
+      H113    XXX   0.0    55
+      H115    XXX   0.0    56
+      H117    XXX   0.0    57
+
+ [ bonds ]
+      PA   O1A   0.150   627.6
+      PA   O2A   0.145   627.6
+      PA   O5D   0.167   627.6
+      PA   O3A   0.163   627.6
+      PB   O1B   0.146   627.6
+      PB   O2B   0.145   627.6
+      PB   O3A   0.158   627.6
+      PB   O3B   0.158   627.6
+      C1D   N1   0.148   627.6
+      C1D   H81   0.109   627.6
+      C1D   C2D   0.155   627.6
+      C1D   O4D   0.142   627.6
+      C1X   O3B   0.138   627.6
+      C1X   H97   0.109   627.6
+      C1X   C2X   0.150   627.6
+      C1X   O5X   0.144   627.6
+      N1   C2   0.144   627.6
+      N1   C6   0.136   627.6
+      C2   O2   0.127   627.6
+      C2   N3   0.141   627.6
+      C2D   O2D   0.144   627.6
+      C2D   H83   0.109   627.6
+      C2D   C3D   0.156   627.6
+      C2X   O2X   0.144   627.6
+      C2X   H99   0.109   627.6
+      C2X   C3X   0.152   627.6
+      O2D   H85   0.096   627.6
+      O2X   H111   0.096   627.6
+      C3D   O3D   0.142   627.6
+      C3D   H87   0.109   627.6
+      C3D   C4D   0.152   627.6
+      C3X   O3X   0.137   627.6
+      C3X   H101   0.109   627.6
+      C3X   C4X   0.155   627.6
+      N3   C4   0.142   627.6
+      N3   H75   0.101   627.6
+      O3D   H91   0.096   627.6
+      O3X   H113   0.096   627.6
+      C4   O4   0.119   627.6
+      C4   C5   0.144   627.6
+      C4D   O4D   0.140   627.6
+      C4D   H89   0.109   627.6
+      C4D   C5D   0.153   627.6
+      C4X   O4X   0.148   627.6
+      C4X   H103   0.109   627.6
+      C4X   C5X   0.153   627.6
+      O4X   H115   0.096   627.6
+      C5   C6   0.137   627.6
+      C5D   H93   0.109   627.6
+      C5D   H95   0.109   627.6
+      C5D   O5D   0.138   627.6
+      C5X   O5X   0.144   627.6
+      C5X   H105   0.109   627.6
+      C5X   C6X   0.155   627.6
+      C6   H79   0.108   627.6
+      C6X   H107   0.109   627.6
+      C6X   H109   0.109   627.6
+      C6X   O6X   0.147   627.6
+      O6X   H117   0.096   627.6
+
+ [ angles ]
+      O1A   PA   O2A   119.344   627.6
+      O1A   PA   O5D   108.997   627.6
+      O1A   PA   O3A   105.588   627.6
+      O2A   PA   O5D   109.507   627.6
+      O2A   PA   O3A   109.151   627.6
+      O5D   PA   O3A   102.968   627.6
+      O1B   PB   O2B   117.208   627.6
+      O1B   PB   O3A   102.373   627.6
+      O1B   PB   O3B   109.006   627.6
+      O2B   PB   O3A   110.786   627.6
+      O2B   PB   O3B   107.796   627.6
+      O3A   PB   O3B   109.453   627.6
+      N1   C1D   H81   103.772   627.6
+      N1   C1D   C2D   116.848   627.6
+      N1   C1D   O4D   106.155   627.6
+      H81   C1D   C2D   111.933   627.6
+      H81   C1D   O4D   111.520   627.6
+      C2D   C1D   O4D   106.550   627.6
+      O3B   C1X   H97   117.215   627.6
+      O3B   C1X   C2X   117.940   627.6
+      O3B   C1X   O5X   100.108   627.6
+      H97   C1X   C2X   109.882   627.6
+      H97   C1X   O5X   105.350   627.6
+      C2X   C1X   O5X   104.025   627.6
+      C1D   N1   C2   118.637   627.6
+      C1D   N1   C6   120.549   627.6
+      C2   N1   C6   120.728   627.6
+      N1   C2   O2   122.328   627.6
+      N1   C2   N3   115.853   627.6
+      O2   C2   N3   121.599   627.6
+      C1D   C2D   O2D   114.100   627.6
+      C1D   C2D   H83   112.064   627.6
+      C1D   C2D   C3D   99.983   627.6
+      O2D   C2D   H83   112.213   627.6
+      O2D   C2D   C3D   108.466   627.6
+      H83   C2D   C3D   109.179   627.6
+      C1X   C2X   O2X   112.745   627.6
+      C1X   C2X   H99   104.834   627.6
+      C1X   C2X   C3X   111.907   627.6
+      O2X   C2X   H99   104.272   627.6
+      O2X   C2X   C3X   109.555   627.6
+      H99   C2X   C3X   113.268   627.6
+      C2D   O2D   H85   102.429   627.6
+      C2X   O2X   H111   102.325   627.6
+      C2D   C3D   O3D   109.843   627.6
+      C2D   C3D   H87   107.676   627.6
+      C2D   C3D   C4D   105.631   627.6
+      O3D   C3D   H87   107.259   627.6
+      O3D   C3D   C4D   116.768   627.6
+      H87   C3D   C4D   109.359   627.6
+      C2X   C3X   O3X   110.465   627.6
+      C2X   C3X   H101   109.622   627.6
+      C2X   C3X   C4X   107.780   627.6
+      O3X   C3X   H101   108.387   627.6
+      O3X   C3X   C4X   108.653   627.6
+      H101   C3X   C4X   111.935   627.6
+      C2   N3   C4   124.441   627.6
+      C2   N3   H75   119.966   627.6
+      C4   N3   H75   115.522   627.6
+      PA   O3A   PB   120.593   627.6
+      PB   O3B   C1X   123.397   627.6
+      C3D   O3D   H91   105.904   627.6
+      C3X   O3X   H113   112.871   627.6
+      N3   C4   O4   118.444   627.6
+      N3   C4   C5   115.080   627.6
+      O4   C4   C5   126.102   627.6
+      C3D   C4D   O4D   104.589   627.6
+      C3D   C4D   H89   112.520   627.6
+      C3D   C4D   C5D   110.010   627.6
+      O4D   C4D   H89   114.622   627.6
+      O4D   C4D   C5D   109.068   627.6
+      H89   C4D   C5D   106.023   627.6
+      C3X   C4X   O4X   110.193   627.6
+      C3X   C4X   H103   108.479   627.6
+      C3X   C4X   C5X   109.606   627.6
+      O4X   C4X   H103   107.135   627.6
+      O4X   C4X   C5X   111.663   627.6
+      H103   C4X   C5X   109.686   627.6
+      C1D   O4D   C4D   105.318   627.6
+      C4X   O4X   H115   106.867   627.6
+      C4   C5   C6   121.320   627.6
+      C4D   C5D   H93   109.922   627.6
+      C4D   C5D   H95   109.262   627.6
+      C4D   C5D   O5D   111.466   627.6
+      H93   C5D   H95   109.769   627.6
+      H93   C5D   O5D   105.868   627.6
+      H95   C5D   O5D   110.503   627.6
+      C4X   C5X   O5X   111.430   627.6
+      C4X   C5X   H105   103.957   627.6
+      C4X   C5X   C6X   116.062   627.6
+      O5X   C5X   H105   111.792   627.6
+      O5X   C5X   C6X   106.224   627.6
+      H105   C5X   C6X   107.411   627.6
+      PA   O5D   C5D   125.045   627.6
+      C1X   O5X   C5X   113.934   627.6
+      N1   C6   C5   122.146   627.6
+      N1   C6   H79   119.993   627.6
+      C5   C6   H79   117.719   627.6
+      C5X   C6X   H107   105.810   627.6
+      C5X   C6X   H109   111.665   627.6
+      C5X   C6X   O6X   104.915   627.6
+      H107   C6X   H109   110.278   627.6
+      H107   C6X   O6X   114.577   627.6
+      H109   C6X   O6X   109.463   627.6
+      C6X   O6X   H117   106.023   627.6
+
+ [ dihedrals ]
+      O1A   PA   O5D   C5D   0   0   0
+      O2A   PA   O5D   C5D   0   0   0
+      O3A   PA   O5D   C5D   0   0   0
+      O1A   PA   O3A   PB   0   0   0
+      O2A   PA   O3A   PB   0   0   0
+      O5D   PA   O3A   PB   0   0   0
+      O1B   PB   O3A   PA   0   0   0
+      O2B   PB   O3A   PA   0   0   0
+      O3B   PB   O3A   PA   0   0   0
+      O1B   PB   O3B   C1X   0   0   0
+      O2B   PB   O3B   C1X   0   0   0
+      O3A   PB   O3B   C1X   0   0   0
+      H81   C1D   N1   C2   0   0   0
+      H81   C1D   N1   C6   0   0   0
+      C2D   C1D   N1   C2   0   0   0
+      C2D   C1D   N1   C6   0   0   0
+      O4D   C1D   N1   C2   0   0   0
+      O4D   C1D   N1   C6   0   0   0
+      N1   C1D   C2D   O2D   0   0   0
+      N1   C1D   C2D   H83   0   0   0
+      N1   C1D   C2D   C3D   0   0   0
+      H81   C1D   C2D   O2D   0   0   0
+      H81   C1D   C2D   H83   0   0   0
+      H81   C1D   C2D   C3D   0   0   0
+      O4D   C1D   C2D   O2D   0   0   0
+      O4D   C1D   C2D   H83   0   0   0
+      O4D   C1D   C2D   C3D   0   0   0
+      N1   C1D   O4D   C4D   0   0   0
+      H81   C1D   O4D   C4D   0   0   0
+      C2D   C1D   O4D   C4D   0   0   0
+      H97   C1X   O3B   PB   0   0   0
+      C2X   C1X   O3B   PB   0   0   0
+      O5X   C1X   O3B   PB   0   0   0
+      O3B   C1X   C2X   O2X   0   0   0
+      O3B   C1X   C2X   H99   0   0   0
+      O3B   C1X   C2X   C3X   0   0   0
+      H97   C1X   C2X   O2X   0   0   0
+      H97   C1X   C2X   H99   0   0   0
+      H97   C1X   C2X   C3X   0   0   0
+      O5X   C1X   C2X   O2X   0   0   0
+      O5X   C1X   C2X   H99   0   0   0
+      O5X   C1X   C2X   C3X   0   0   0
+      O3B   C1X   O5X   C5X   0   0   0
+      H97   C1X   O5X   C5X   0   0   0
+      C2X   C1X   O5X   C5X   0   0   0
+      C1D   N1   C2   O2   0   0   0
+      C1D   N1   C2   N3   0   0   0
+      C6   N1   C2   O2   0   0   0
+      C6   N1   C2   N3   0   0   0
+      C1D   N1   C6   C5   0   0   0
+      C1D   N1   C6   H79   0   0   0
+      C2   N1   C6   C5   0   0   0
+      C2   N1   C6   H79   0   0   0
+      N1   C2   N3   C4   0   0   0
+      N1   C2   N3   H75   0   0   0
+      O2   C2   N3   C4   0   0   0
+      O2   C2   N3   H75   0   0   0
+      C1D   C2D   O2D   H85   0   0   0
+      H83   C2D   O2D   H85   0   0   0
+      C3D   C2D   O2D   H85   0   0   0
+      C1D   C2D   C3D   O3D   0   0   0
+      C1D   C2D   C3D   H87   0   0   0
+      C1D   C2D   C3D   C4D   0   0   0
+      O2D   C2D   C3D   O3D   0   0   0
+      O2D   C2D   C3D   H87   0   0   0
+      O2D   C2D   C3D   C4D   0   0   0
+      H83   C2D   C3D   O3D   0   0   0
+      H83   C2D   C3D   H87   0   0   0
+      H83   C2D   C3D   C4D   0   0   0
+      C1X   C2X   O2X   H111   0   0   0
+      H99   C2X   O2X   H111   0   0   0
+      C3X   C2X   O2X   H111   0   0   0
+      C1X   C2X   C3X   O3X   0   0   0
+      C1X   C2X   C3X   H101   0   0   0
+      C1X   C2X   C3X   C4X   0   0   0
+      O2X   C2X   C3X   O3X   0   0   0
+      O2X   C2X   C3X   H101   0   0   0
+      O2X   C2X   C3X   C4X   0   0   0
+      H99   C2X   C3X   O3X   0   0   0
+      H99   C2X   C3X   H101   0   0   0
+      H99   C2X   C3X   C4X   0   0   0
+      C2D   C3D   O3D   H91   0   0   0
+      H87   C3D   O3D   H91   0   0   0
+      C4D   C3D   O3D   H91   0   0   0
+      C2D   C3D   C4D   O4D   0   0   0
+      C2D   C3D   C4D   H89   0   0   0
+      C2D   C3D   C4D   C5D   0   0   0
+      O3D   C3D   C4D   O4D   0   0   0
+      O3D   C3D   C4D   H89   0   0   0
+      O3D   C3D   C4D   C5D   0   0   0
+      H87   C3D   C4D   O4D   0   0   0
+      H87   C3D   C4D   H89   0   0   0
+      H87   C3D   C4D   C5D   0   0   0
+      C2X   C3X   O3X   H113   0   0   0
+      H101   C3X   O3X   H113   0   0   0
+      C4X   C3X   O3X   H113   0   0   0
+      C2X   C3X   C4X   O4X   0   0   0
+      C2X   C3X   C4X   H103   0   0   0
+      C2X   C3X   C4X   C5X   0   0   0
+      O3X   C3X   C4X   O4X   0   0   0
+      O3X   C3X   C4X   H103   0   0   0
+      O3X   C3X   C4X   C5X   0   0   0
+      H101   C3X   C4X   O4X   0   0   0
+      H101   C3X   C4X   H103   0   0   0
+      H101   C3X   C4X   C5X   0   0   0
+      C2   N3   C4   O4   0   0   0
+      C2   N3   C4   C5   0   0   0
+      H75   N3   C4   O4   0   0   0
+      H75   N3   C4   C5   0   0   0
+      N3   C4   C5   C6   0   0   0
+      O4   C4   C5   C6   0   0   0
+      C3D   C4D   O4D   C1D   0   0   0
+      H89   C4D   O4D   C1D   0   0   0
+      C5D   C4D   O4D   C1D   0   0   0
+      C3D   C4D   C5D   H93   0   0   0
+      C3D   C4D   C5D   H95   0   0   0
+      C3D   C4D   C5D   O5D   0   0   0
+      O4D   C4D   C5D   H93   0   0   0
+      O4D   C4D   C5D   H95   0   0   0
+      O4D   C4D   C5D   O5D   0   0   0
+      H89   C4D   C5D   H93   0   0   0
+      H89   C4D   C5D   H95   0   0   0
+      H89   C4D   C5D   O5D   0   0   0
+      C3X   C4X   O4X   H115   0   0   0
+      H103   C4X   O4X   H115   0   0   0
+      C5X   C4X   O4X   H115   0   0   0
+      C3X   C4X   C5X   O5X   0   0   0
+      C3X   C4X   C5X   H105   0   0   0
+      C3X   C4X   C5X   C6X   0   0   0
+      O4X   C4X   C5X   O5X   0   0   0
+      O4X   C4X   C5X   H105   0   0   0
+      O4X   C4X   C5X   C6X   0   0   0
+      H103   C4X   C5X   O5X   0   0   0
+      H103   C4X   C5X   H105   0   0   0
+      H103   C4X   C5X   C6X   0   0   0
+      C4   C5   C6   N1   0   0   0
+      C4   C5   C6   H79   0   0   0
+      C4D   C5D   O5D   PA   0   0   0
+      H93   C5D   O5D   PA   0   0   0
+      H95   C5D   O5D   PA   0   0   0
+      C4X   C5X   O5X   C1X   0   0   0
+      H105   C5X   O5X   C1X   0   0   0
+      C6X   C5X   O5X   C1X   0   0   0
+      C4X   C5X   C6X   H107   0   0   0
+      C4X   C5X   C6X   H109   0   0   0
+      C4X   C5X   C6X   O6X   0   0   0
+      O5X   C5X   C6X   H107   0   0   0
+      O5X   C5X   C6X   H109   0   0   0
+      O5X   C5X   C6X   O6X   0   0   0
+      H105   C5X   C6X   H107   0   0   0
+      H105   C5X   C6X   H109   0   0   0
+      H105   C5X   C6X   O6X   0   0   0
+      C5X   C6X   O6X   H117   0   0   0
+      H107   C6X   O6X   H117   0   0   0
+      H109   C6X   O6X   H117   0   0   0
+
+ [ impropers ]

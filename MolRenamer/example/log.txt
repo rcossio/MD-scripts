@@ -1,0 +1,13 @@
+ MolRenamer - PDBwPDB
+
+Info)
+   - Atom indices must be unique.
+   - Atom name must be unique.
+   - Conectivity must be correct -except for H atoms- (check visually with Pymol,VMD, etc.).
+   - CONECT lines must be after all HETATM lines.
+   - The template must contain all the atoms in the query file.
+   - This algorithm assigns atom names by their conectivity. It can happen with highly
+     simmetric molecules that the script fails to get the right naming. When this happens
+     the molecule is not fully translated. Always check with you preferred visualizer.
+
+

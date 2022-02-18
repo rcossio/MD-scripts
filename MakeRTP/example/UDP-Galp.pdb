@@ -1,0 +1,115 @@
+HETATM    1  PA  GDU   475      69.635  48.399  48.413  1.00  0.00           P  
+HETATM    2  PB  GDU   475      68.019  46.745  49.958  1.00  0.00           P  
+HETATM    3  C1D GDU   475      70.973  48.275  43.039  1.00  0.00           C  
+HETATM    4  C1X GDU   475      69.117  46.761  52.327  1.00  0.00           C  
+HETATM    5  N1  GDU   475      72.443  48.084  42.953  1.00  0.00           N  
+HETATM    6  O1A GDU   475      70.913  47.915  49.042  1.00  0.00           O1-
+HETATM    7  O1B GDU   475      68.187  45.292  49.944  1.00  0.00           O1-
+HETATM    8  C2  GDU   475      73.204  48.951  42.084  1.00  0.00           C  
+HETATM    9  C2D GDU   475      70.108  46.997  43.166  1.00  0.00           C  
+HETATM   10  C2X GDU   475      68.578  47.464  53.540  1.00  0.00           C  
+HETATM   11  O2  GDU   475      72.681  49.933  41.481  1.00  0.00           O  
+HETATM   12  O2A GDU   475      69.011  49.611  48.912  1.00  0.00           O  
+HETATM   13  O2B GDU   475      66.675  47.255  50.144  1.00  0.00           O  
+HETATM   14  O2D GDU   475      69.469  46.596  41.941  1.00  0.00           O  
+HETATM   15  O2X GDU   475      67.162  47.278  53.707  1.00  0.00           O  
+HETATM   16  C3D GDU   475      69.010  47.510  44.152  1.00  0.00           C  
+HETATM   17  C3X GDU   475      68.897  48.948  53.523  1.00  0.00           C  
+HETATM   18  N3  GDU   475      74.589  48.710  42.037  1.00  0.00           N  
+HETATM   19  O3A GDU   475      68.586  47.164  48.549  1.00  0.00           O  
+HETATM   20  O3B GDU   475      68.932  47.359  51.098  1.00  0.00           O  
+HETATM   21  O3D GDU   475      67.719  47.263  43.608  1.00  0.00           O  
+HETATM   22  O3X GDU   475      68.407  49.556  54.648  1.00  0.00           O  
+HETATM   23  C4  GDU   475      75.247  47.671  42.744  1.00  0.00           C  
+HETATM   24  C4D GDU   475      69.366  48.964  44.443  1.00  0.00           C  
+HETATM   25  C4X GDU   475      70.435  49.100  53.509  1.00  0.00           C  
+HETATM   26  O4  GDU   475      76.429  47.566  42.629  1.00  0.00           O  
+HETATM   27  O4D GDU   475      70.741  49.041  44.218  1.00  0.00           O  
+HETATM   28  O4X GDU   475      70.996  48.734  54.827  1.00  0.00           O  
+HETATM   29  C5  GDU   475      74.415  46.932  43.656  1.00  0.00           C  
+HETATM   30  C5D GDU   475      69.080  49.290  45.914  1.00  0.00           C  
+HETATM   31  C5X GDU   475      71.024  48.246  52.389  1.00  0.00           C  
+HETATM   32  O5D GDU   475      69.855  48.524  46.761  1.00  0.00           O  
+HETATM   33  O5X GDU   475      70.548  46.887  52.457  1.00  0.00           O  
+HETATM   34  C6  GDU   475      73.067  47.156  43.730  1.00  0.00           C  
+HETATM   35  C6X GDU   475      72.572  48.161  52.339  1.00  0.00           C  
+HETATM   36  O6X GDU   475      72.872  47.481  51.075  1.00  0.00           O  
+HETATM   37  H75 GDU   475      75.191  49.327  41.510  1.00  0.00           H  
+HETATM   38  H79 GDU   475      72.487  46.519  44.381  1.00  0.00           H  
+HETATM   39  H81 GDU   475      70.732  48.842  42.140  1.00  0.00           H  
+HETATM   40  H83 GDU   475      70.654  46.178  43.633  1.00  0.00           H  
+HETATM   41  H85 GDU   475      68.557  46.856  42.089  1.00  0.00           H  
+HETATM   42  H87 GDU   475      69.091  46.928  45.069  1.00  0.00           H  
+HETATM   43  H89 GDU   475      68.770  49.665  43.858  1.00  0.00           H  
+HETATM   44  H91 GDU   475      67.224  46.816  44.298  1.00  0.00           H  
+HETATM   45  H93 GDU   475      69.345  50.326  46.123  1.00  0.00           H  
+HETATM   46  H95 GDU   475      68.021  49.132  46.118  1.00  0.00           H  
+HETATM   47  H97 GDU   475      68.914  45.693  52.397  1.00  0.00           H  
+HETATM   48  H99 GDU   475      69.020  46.938  54.387  1.00  0.00           H  
+HETATM   49 H101 GDU   475      68.434  49.412  52.652  1.00  0.00           H  
+HETATM   50 H103 GDU   475      70.677  50.149  53.337  1.00  0.00           H  
+HETATM   51 H105 GDU   475      70.695  48.745  51.477  1.00  0.00           H  
+HETATM   52 H107 GDU   475      72.928  49.190  52.396  1.00  0.00           H  
+HETATM   53 H109 GDU   475      72.970  47.577  53.169  1.00  0.00           H  
+HETATM   54 H111 GDU   475      67.062  47.312  54.661  1.00  0.00           H  
+HETATM   55 H113 GDU   475      67.640  50.106  54.471  1.00  0.00           H  
+HETATM   56 H115 GDU   475      70.254  48.510  55.393  1.00  0.00           H  
+HETATM   57 H117 GDU   475      72.057  47.491  50.569  1.00  0.00           H  
+CONECT    1    6   12   32   19
+CONECT    2    7   13   19   20
+CONECT    3    5   39    9   27
+CONECT    4   20   47   10   33
+CONECT    5    3    8   34
+CONECT    6    1
+CONECT    7    2
+CONECT    8    5   11   18
+CONECT    9    3   14   40   16
+CONECT   10    4   15   48   17
+CONECT   11    8
+CONECT   12    1
+CONECT   13    2
+CONECT   14    9   41
+CONECT   15   10   54
+CONECT   16    9   21   42   24
+CONECT   17   10   22   49   25
+CONECT   18    8   23   37
+CONECT   19    2    1
+CONECT   20    4    2
+CONECT   21   16   44
+CONECT   22   17   55
+CONECT   23   18   26   29
+CONECT   24   16   27   43   30
+CONECT   25   17   28   50   31
+CONECT   26   23
+CONECT   27   24    3
+CONECT   28   25   56
+CONECT   29   23   34
+CONECT   30   24   45   46   32
+CONECT   31   25   33   51   35
+CONECT   32    1   30
+CONECT   33   31    4
+CONECT   34    5   29   38
+CONECT   35   31   52   53   36
+CONECT   36   35   57
+CONECT   37   18
+CONECT   38   34
+CONECT   39    3
+CONECT   40    9
+CONECT   41   14
+CONECT   42   16
+CONECT   43   24
+CONECT   44   21
+CONECT   45   30
+CONECT   46   30
+CONECT   47    4
+CONECT   48   10
+CONECT   49   17
+CONECT   50   25
+CONECT   51   31
+CONECT   52   35
+CONECT   53   35
+CONECT   54   15
+CONECT   55   22
+CONECT   56   28
+CONECT   57   36
+END
