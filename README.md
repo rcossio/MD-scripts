@@ -4,6 +4,7 @@ This are scripts I use to do protein/enzyme molecular dynamics simulations in AM
 I saved them to keep them but they are quite simple and aren't documented.
 
 FittingRESPCharges uses Gaussian 09 rev B.01 to calculate RESP charges. Usefull for depeloping forcields for ligand and special molecules. Particularly usefull because it handles the bug in G09revB.01
+
 OrganicLigandForceField completes the creaton of a forcefield using GAFF and RESP charges.
 
 PlainMD contains:
